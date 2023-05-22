@@ -1,1 +1,1 @@
-# Privary_Policies
+# Privacy_Policies
