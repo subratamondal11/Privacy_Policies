@@ -43,17 +43,15 @@ I explicitly and unequivocally state that this application is not intended for c
 In summary, this app is a hobbyist project built for fun and utility, not for profit or data. My commitment is to provide a simple, respectful, and private user experience.
 ```
 
-Sincerely,
-
-Subrata Mondal<br>
-Sole Developer, Water Reminder<br>
-19/10/2025
-
  <hr style="border:1px solid gray">
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email, and I will surely try to fix it/help you.
 
-Yours sincerely,  
+Yours sincerely,
+
 Subrata Mondal.  
+Sole Developer, Water Reminder.
+
+19/10/2025  
 Kolkata, India.  
 subratamondal11@gmail.com
